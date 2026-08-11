@@ -72,7 +72,8 @@ so I have used Pie Chart, Donut Chart, Clustered Bar Chart and Clustered Bar Cha
 And I create a very small DAX to find top 3 work from departments after that i choose filtration to filter only top 3.
 WFH_Count = CALCULATE(COUNTROWS(HR_Record),HR_Record[location] = "Remote").
 
-I used light theme to make our dashboard more attractive. And as i used light theme so i used dark/bright colors to make dashboard looks different.
+I used light theme to make our dashboard more attractive. And as i used light theme so i used dark/bright colors to make dashboard 
+looks different.
 
 
 
